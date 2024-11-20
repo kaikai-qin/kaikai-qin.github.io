@@ -22,7 +22,7 @@ redirect_from:
 I am currently pursuing a Ph.D. at Hangzhou Dianzi University, advised by Prof. Chongyang Deng. I received my B.S. degree from Southwest University of Science and Technology in 2020. My research interests focus on computer aided geometric design (CAGD), particularly the construction and applications of genuine multi-sided parametric surface patches \| [\[Genuine multi-sided parametric surface patches – A survey\]](https://www.sciencedirect.com/science/article/pii/S0167839624000207).
 
 # 🔥 News
-- *2024.08*: Our deformation paper is conditionally accepted by SIGGRAPH Aisa 2024 \(journal track\)!&nbsp;🎉🎉 
+- *2024.08* Our deformation paper is conditionally accepted by SIGGRAPH Aisa 2024 \(journal track\)!&nbsp;🎉🎉 
 
 # 📝 Publications 
 
@@ -31,7 +31,7 @@ I am currently pursuing a Ph.D. at Hangzhou Dianzi University, advised by Prof. 
 
 [ C^0 Generalized Coons Patches for High-order Cage-based Deformation](https://dl.acm.org/doi/10.1145/3687972)
 **Kaikai Qin**, Yunhao Zhou, Chenhao Ying, Yajuan Li, and Chongyang Deng
-- vvvvvvvvvvvvvvvvvvvvvvvvvvv
+- It generalizes rectangular and triangular Coons patches, works in any dimension, supports arbitrary polytopes, even non-manifold topologies, and has an elegant mathematical form. We applied this method to high-order cage-based deformation, which offers more degrees of freedom and achieves smoother results compared to traditional linear cage-based deformation.
 </div>
 </div>
 
@@ -41,7 +41,7 @@ I am currently pursuing a Ph.D. at Hangzhou Dianzi University, advised by Prof. 
 
 [ Generalized Bézier volumes over simple convex polyhedra](https://www.sciencedirect.com/science/article/abs/pii/S0167839624000724)
  **Kaikai Qin**, Yajuan Li, and Chongyang Deng
-- Computer Aided Geometric Design
+- An higher-dimensional extension of the [Generalized Bézier \(GB\) patch](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.12833).
 </div>
 </div>
 
@@ -63,12 +63,12 @@ I am currently pursuing a Ph.D. at Hangzhou Dianzi University, advised by Prof. 
 
 [ Genuine multi-sided parametric surface patches – A survey](https://www.sciencedirect.com/science/article/pii/S0167839624000207)
  Tamás Várady, Péter Salvi, Márton Vaitkus
-- Computer Aided Geometric Design
+- A very comprehensive survey on polygonal surfaces.
 </div>
 </div>
 
 # 🎖 Honors and Awards
-- *2024.05* First Prize in the 2024 Excellent Paper Selection of Zhejiang Applied Mathematics Research Association
+- *2024.07* First Prize in the 2024 Excellent Paper Selection of Zhejiang Applied Mathematics Research Association
 - *2024.07* Hangzhou Dianzi University 2024 Excellent Doctoral Dissertation Cultivation Project Approved 
 
 # 📖 Educations
@@ -77,6 +77,6 @@ I am currently pursuing a Ph.D. at Hangzhou Dianzi University, advised by Prof. 
 - *2016.09 - 2020.06*, Information and Computing Science, Southwest University of Science and Technology, Mianyang. 
 
 # 💬 Invited Talks
-- *2024.12*, Attended SIGGRAPH Asia 2024 in Tokyo, Japan, and gave a talk titled "C^0 Generalized Coons Patches for High-order Cage-based Deformation".
-- *2023.06*, Invited to attend the CGTA (Conference on Geometry: Theory and Applications) 2023 held in Austria, and gave a report entitled "Blending Bézier patch for multisided surface modeling" at the conference.
+- *2024.12*, I will attend SIGGRAPH Asia 2024 in Tokyo, Japan, and give a talk titled "C^0 Generalized Coons Patches for High-order Cage-based Deformation". \(I hope it won't be that bad this time...\)
+- *2023.06*, Invited by Dr. [Péter Salvi](https://www.iit.bme.hu/users/dr-salvi-p%C3%A9ter?language=en) to attend the CGTA (Conference on Geometry: Theory and Applications) 2023 held in Austria, and gave a talk entitled "Blending Bézier patch for multisided surface modeling" at the conference. \(A really really bad report...\}
 
