@@ -51,7 +51,7 @@ I am currently pursuing a Ph.D. at Hangzhou Dianzi University, advised by Prof. 
 
 [ Blending Bézier patch for multisided surface modeling](https://www.sciencedirect.com/science/article/abs/pii/S0167839623000547)
  **Kaikai Qin**, Yajuan Li, and Chongyang Deng
-- Computer Aided Geometric Design
+- A multi-sided Bézier patch by Gregory corner blending.
 </div>
 </div>
 
