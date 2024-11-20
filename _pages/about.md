@@ -78,5 +78,5 @@ I am currently pursuing a Ph.D. at Hangzhou Dianzi University, advised by Prof. 
 
 # 💬 Invited Talks
 - *2024.12*, I will attend SIGGRAPH Asia 2024 in Tokyo, Japan, and give a talk titled "C^0 Generalized Coons Patches for High-order Cage-based Deformation". \(I hope it won't be that bad this time...\)
-- *2023.06*, Invited by Dr. [Péter Salvi](https://www.iit.bme.hu/users/dr-salvi-p%C3%A9ter?language=en) to attend the CGTA (Conference on Geometry: Theory and Applications) 2023 held in Austria, and gave a talk entitled "Blending Bézier patch for multisided surface modeling" at the conference. \(A really really bad report...\}
+- *2023.06*, Invited by Dr. [Péter Salvi](https://www.iit.bme.hu/users/dr-salvi-p%C3%A9ter?language=en) to attend the CGTA (Conference on Geometry: Theory and Applications) 2023 held in Austria, and gave a talk entitled "Blending Bézier patch for multisided surface modeling" at the conference. \(A really really bad report...\)
 
