@@ -56,7 +56,7 @@ I am currently pursuing a Ph.D. at Hangzhou Dianzi University, advised by Prof. 
 
 # 📝 Acknowledgements 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAGD</div><img src='images/bbp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAGD</div><img src='images/salvi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ Genuine multi-sided parametric surface patches – A survey](https://www.sciencedirect.com/science/article/pii/S0167839624000207)
