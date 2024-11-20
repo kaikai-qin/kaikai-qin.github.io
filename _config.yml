@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Kaikai Qin"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Ph.D. student at Hangzhou Dianzi University; Research Interst: Computer Aided Geometric Design. "
 repository               : "https://kaikai-qin.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Kaikai Qin  NB"
+  name             : "Kaikai Qin"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "Hangzhou Dianzi University"
+  location         : "Hangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=c2o3B24AAAAJ&hl=en"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=YFc7qVIAAAAJ&hl=en"
+  email            : "473397537@qq.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
