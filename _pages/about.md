@@ -41,7 +41,7 @@ I am currently pursuing a Ph.D. at Hangzhou Dianzi University, advised by Prof. 
 
 [ Generalized Bézier volumes over simple convex polyhedra](https://www.sciencedirect.com/science/article/abs/pii/S0167839624000724)
  **Kaikai Qin**, Yajuan Li, and Chongyang Deng
-- An higher-dimensional extension of the [Generalized Bézier \(GB\) patch](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.12833).
+- An 3D extension of the [Generalized Bézier \(GB\) patch](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.12833).
 </div>
 </div>
 
