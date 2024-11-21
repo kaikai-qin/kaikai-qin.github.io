@@ -30,6 +30,7 @@ I am currently pursuing a Ph.D. at Hangzhou Dianzi University, advised by Prof. 
 <div class='paper-box-text' markdown="1">
 
 [ C^0 Generalized Coons Patches for High-order Cage-based Deformation](https://dl.acm.org/doi/10.1145/3687972)
+[Paper](https://github.com/kaikai-qin/kaikai-qin.github.io/blob/main/images/2024-TOG-C0%20Generalized%20Coons%20Patches%20for%20High-order%20Cage-based%20Deformation.pdf)
 **Kaikai Qin**, Yunhao Zhou, Chenhao Ying, Yajuan Li, and Chongyang Deng
 - It generalizes rectangular and triangular Coons patches, works in any dimension, supports arbitrary polytopes, even non-manifold topologies, and has an elegant mathematical form. We applied this method to high-order cage-based deformation, which offers more degrees of freedom and achieves smoother results compared to traditional linear cage-based deformation.
 </div>
@@ -40,6 +41,7 @@ I am currently pursuing a Ph.D. at Hangzhou Dianzi University, advised by Prof. 
 <div class='paper-box-text' markdown="1">
 
 [ Generalized Bézier volumes over simple convex polyhedra](https://www.sciencedirect.com/science/article/abs/pii/S0167839624000724)
+[Paper](https://github.com/kaikai-qin/kaikai-qin.github.io/blob/main/images/2024-CAGD-Generalized%20Bezier%20Volume%20over%20Simple%20Convex%20Polyhedra.pdf)
  **Kaikai Qin**, Yajuan Li, and Chongyang Deng
 - A 3D extension of the [Generalized Bézier \(GB\) patch](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.12833).
 </div>
@@ -50,6 +52,7 @@ I am currently pursuing a Ph.D. at Hangzhou Dianzi University, advised by Prof. 
 <div class='paper-box-text' markdown="1">
 
 [ Blending Bézier patch for multisided surface modeling](https://www.sciencedirect.com/science/article/abs/pii/S0167839623000547)
+[Paper](https://github.com/kaikai-qin/kaikai-qin.github.io/blob/main/images/2023-CAGD-Blending%20B%C3%A9zier%20patch%20for%20multi-sided%20surface%20modeling.pdf)
  **Kaikai Qin**, Yajuan Li, and Chongyang Deng
 - A multi-sided Bézier patch by Gregory corner blending.
 </div>
