@@ -22,11 +22,11 @@ redirect_from:
 I am currently pursuing a Ph.D. at Hangzhou Dianzi University, advised by Prof. Chongyang Deng. I received my B.S. degree from Southwest University of Science and Technology in 2020. My research interests focus on computer aided geometric design (CAGD), particularly the construction and applications of genuine multi-sided parametric surface patches \| [\[Genuine multi-sided parametric surface patches – A survey\]](https://www.sciencedirect.com/science/article/pii/S0167839624000207).
 
 # 🔥 News
-- *2024.08* Our deformation paper is conditionally accepted by SIGGRAPH Aisa 2024 \(journal track\)!&nbsp;🎉🎉 
+- *2024.08* Our deformation paper is conditionally accepted by SIGGRAPH Asia 2024 \(journal track\)!&nbsp;🎉🎉 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Aisa 2024(TOG)</div><img src='images/c0deformation.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2024 (TOG)</div><img src='images/c0deformation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ C^0 Generalized Coons Patches for High-order Cage-based Deformation](https://dl.acm.org/doi/10.1145/3687972)   
@@ -80,6 +80,6 @@ I am currently pursuing a Ph.D. at Hangzhou Dianzi University, advised by Prof. 
 - *2016.09 - 2020.06*, Information and Computing Science, Southwest University of Science and Technology, Mianyang. 
 
 # 💬 Invited Talks
-- *2024.12*, I will attend SIGGRAPH Asia 2024 in Tokyo, Japan, and give a talk titled "C^0 Generalized Coons Patches for High-order Cage-based Deformation". \(I hope it won't be that bad this time...\)
+- *2024.12*, I attended SIGGRAPH Asia 2024 in Tokyo, Japan, and gave a talk titled "C^0 Generalized Coons Patches for High-order Cage-based Deformation". \(It really is an amazing experience!!!\)
 - *2023.06*, Invited by Dr. [Péter Salvi](https://www.iit.bme.hu/users/dr-salvi-p%C3%A9ter?language=en) to attend the CGTA (Conference on Geometry: Theory and Applications) 2023 held in Austria, and gave a talk entitled "Blending Bézier patch for multisided surface modeling" at the conference. \(A really really bad report...\)
 
