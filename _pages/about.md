@@ -71,6 +71,7 @@ I am currently pursuing a Ph.D. at Hangzhou Dianzi University, advised by Prof. 
 </div>
 
 # 🎖 Honors and Awards
+- *2025.01* Second Prize of the Graduate Innovation Scholarship of the "Qiu Junping and Yan Jinlian Graduate Education Award Fund"
 - *2024.07* First Prize in the 2024 Excellent Paper Selection of Zhejiang Applied Mathematics Research Association
 - *2024.07* Hangzhou Dianzi University 2024 Excellent Doctoral Dissertation Cultivation Project Approved 
 
