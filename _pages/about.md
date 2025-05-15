@@ -19,7 +19,7 @@ redirect_from:
 
 # Profile
 
-I am currently pursuing a Ph.D. at Hangzhou Dianzi University, advised by Prof. Chongyang Deng. I received my B.S. degree from Southwest University of Science and Technology in 2020. My research interests focus on computer aided geometric design (CAGD), particularly the construction and applications of genuine multi-sided parametric surface patches \| [\[Genuine multi-sided parametric surface patches – A survey\]](https://www.sciencedirect.com/science/article/pii/S0167839624000207).
+I am currently pursuing a Ph.D. at Hangzhou Dianzi University, advised by Prof. Chongyang Deng. I received my B.S. degree from Southwest University of Science and Technology in 2020. My research interests focus on computer aided geometric design (CAGD), particularly the construction and applications of genuine multi-sided parametric surface patches \| [\[Genuine multi-sided parametric surface patches – A survey\]](https://www.sciencedirect.com/science/article/pii/S0167839624000207) and polyhedral volumes.
 
 # 🔥 News
 - *2024.08* Our deformation paper is conditionally accepted by SIGGRAPH Asia 2024 \(journal track\)!&nbsp;🎉🎉 
@@ -76,11 +76,12 @@ I am currently pursuing a Ph.D. at Hangzhou Dianzi University, advised by Prof. 
 - *2024.07* Hangzhou Dianzi University 2024 Excellent Doctoral Dissertation Cultivation Project Approved 
 
 # 📖 Educations
-
-- *2020.09 - Now*, Hangzhou Dianzi University 
-- *2016.09 - 2020.06*, Information and Computing Science, Southwest University of Science and Technology, Mianyang. 
+- *2022.09 - Now*, Ph.D, Applied Mathematics, Hangzhou Dianzi University, Hangzhou, China.
+- *2020.09 - 2022.06*, MS, Applied Mathematics, Hangzhou Dianzi University, Hangzhou, China. 
+- *2016.09 - 2020.06*, BS, Information and Computing Science, Southwest University of Science and Technology, Mianyang, China.  
 
 # 💬 Invited Talks
-- *2024.12*, I attended SIGGRAPH Asia 2024 in Tokyo, Japan, and gave a talk titled "C^0 Generalized Coons Patches for High-order Cage-based Deformation". \(It really is an amazing experience!!!\)
-- *2023.06*, Invited by Dr. [Péter Salvi](https://www.iit.bme.hu/users/dr-salvi-p%C3%A9ter?language=en) to attend the CGTA (Conference on Geometry: Theory and Applications) 2023 held in Austria, and gave a talk entitled "Blending Bézier patch for multisided surface modeling" at the conference. \(A really really bad report...\)
+- *2024.12*, Invited by Dr. [Márton Vaitkus](https://www.iit.bme.hu/users/dr-vaitkus-m%C3%A1rton), I will present our work "C^0 Generalized Coons Patches for High-order Cage-based Deformation" at CGTA 2025 in Sopron.
+- *2024.12*, I attended SIGGRAPH Asia 2024 in Tokyo, Japan, and gave a talk titled "C^0 Generalized Coons Patches for High-order Cage-based Deformation". \(It really is an amazing experience!!! :D \)
+- *2023.06*, Invited by Dr. [Péter Salvi](https://www.iit.bme.hu/users/dr-salvi-p%C3%A9ter?language=en) to attend the CGTA (Conference on Geometry: Theory and Applications) 2023 held in Austria, and gave a talk entitled "Blending Bézier patch for multisided surface modeling" at the conference. \(A really really bad report... T_T \)
 
