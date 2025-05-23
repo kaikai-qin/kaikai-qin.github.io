@@ -22,7 +22,9 @@ redirect_from:
 I am currently pursuing a Ph.D. at Hangzhou Dianzi University, advised by Prof. Chongyang Deng. I received my B.S. degree from Southwest University of Science and Technology in 2020. My research interests focus on computer aided geometric design (CAGD), particularly the construction and applications of genuine multi-sided parametric surface patches and polyhedral volumes.
 
 # 🔥 News
-- *2024.08* Our deformation paper is conditionally accepted by SIGGRAPH Asia 2024 \(journal track\)!&nbsp;🎉🎉 
+
+- *2025.05* I have just completed my doctoral thesis defense. &nbsp;🎉🎉
+- *2024.08* Our deformation paper is conditionally accepted by SIGGRAPH Asia 2024 \(journal track\)! &nbsp;🎉🎉 
 
 # 📝 Publications 
 
