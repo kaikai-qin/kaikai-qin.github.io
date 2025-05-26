@@ -79,8 +79,8 @@ I am currently pursuing a Ph.D. at Hangzhou Dianzi University, advised by Prof. 
 
 # 📖 Educations
 - *2022.09 - Now*, Ph.D, Applied Mathematics, Hangzhou Dianzi University, Hangzhou, China.
-- *2020.09 - 2022.06*, MS, Applied Mathematics, Hangzhou Dianzi University, Hangzhou, China. 
-- *2016.09 - 2020.06*, BS, Information and Computing Science, Southwest University of Science and Technology, Mianyang, China.  
+- *2020.09 - 2022.06*, M.S., Applied Mathematics, Hangzhou Dianzi University, Hangzhou, China. 
+- *2016.09 - 2020.06*, B.S., Information and Computing Science, Southwest University of Science and Technology, Mianyang, China.  
 
 # 💬 Invited Talks
 - *2025.06*, Invited by Dr. [Márton Vaitkus](https://www.iit.bme.hu/users/dr-vaitkus-m%C3%A1rton), I will present our work "C^0 Generalized Coons Patches for High-order Cage-based Deformation" at CGTA (Conference on Geometry: Theory and Applications) 2025 in Sopron.
