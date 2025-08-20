@@ -23,7 +23,7 @@ I am currently pursuing a Ph.D. at Hangzhou Dianzi University, advised by Prof. 
 
 # 🔥 News
 
-- *2025.06* One paper is conditionally accepted by CAD/Garphics 2025 and will be published in CSIAM-AM journal. &nbsp;🎉
+- *2025.06* One paper is conditionally accepted by CAD/Graphics 2025 and will be published in CSIAM-AM journal. &nbsp;🎉
 - *2025.05* I have just completed my doctoral thesis defense. &nbsp;🎉🎉
 - *2024.08* Our deformation paper is conditionally accepted by SIGGRAPH Asia 2024 \(journal track\)! &nbsp;🎉🎉 
 
@@ -84,7 +84,7 @@ I am currently pursuing a Ph.D. at Hangzhou Dianzi University, advised by Prof. 
 - *2016.09 - 2020.06*, B.S., Information and Computing Science, Southwest University of Science and Technology, Mianyang, China.  
 
 # 💬 Invited Talks
-- *2025.08*, I attended CAD/Garphics 2025 in Yantai, China, and gave a talk titled "2D High-order Cage-based Deformation by Polygonal Surface Patches".
+- *2025.08*, I attended CAD/Graphics 2025 in Yantai, China, and gave a talk titled "2D High-order Cage-based Deformation by Polygonal Surface Patches".
 - *2025.06*, Invited by Dr. [Márton Vaitkus](https://www.iit.bme.hu/users/dr-vaitkus-m%C3%A1rton), I have presented our work "C^0 Generalized Coons Patches for High-order Cage-based Deformation" at CGTA (Conference on Geometry: Theory and Applications) 2025 held in Sopron. 
 - *2024.12*, I attended SIGGRAPH Asia 2024 in Tokyo, Japan, and gave a talk titled "C^0 Generalized Coons Patches for High-order Cage-based Deformation". \(It really is an amazing experience!!! :D \)
 - *2023.06*, Invited by Dr. [Péter Salvi](https://www.iit.bme.hu/users/dr-salvi-p%C3%A9ter?language=en) to attend the CGTA (Conference on Geometry: Theory and Applications) 2023 held in Austria, and gave a talk entitled "Blending Bézier patch for multisided surface modeling" at the conference. \(A really really bad report... T_T \)
