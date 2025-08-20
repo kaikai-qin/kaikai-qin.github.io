@@ -23,6 +23,7 @@ I am currently pursuing a Ph.D. at Hangzhou Dianzi University, advised by Prof. 
 
 # 🔥 News
 
+- *2025.06* One paper is conditionally accepted by CAD/Garphics 2025 and will be published in CSIAM-AM journal. &nbsp;🎉
 - *2025.05* I have just completed my doctoral thesis defense. &nbsp;🎉🎉
 - *2024.08* Our deformation paper is conditionally accepted by SIGGRAPH Asia 2024 \(journal track\)! &nbsp;🎉🎉 
 
