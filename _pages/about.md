@@ -23,7 +23,7 @@ I am currently pursuing a Ph.D. at Hangzhou Dianzi University, advised by Prof. 
 
 # 🔥 News
 
-- *2025.08*: My poster based on the previous work "C^0 Generalized Coons Patches for High-order Cage-based Deformation" has won the Best Poster Prize at the union conference of CCF CAD\&CG and CSIAM GDC. &nbsp;🎉
+- *2025.08*: My poster based on the previous work "C^0 Generalized Coons Patches for High-order Cage-based Deformation" has won the Best Poster Award at the union conference of CCF CAD\&CG and CSIAM GDC. &nbsp;🎉
 - *2025.06*: One paper is conditionally accepted by CAD/Graphics 2025 and will be published in CSIAM-AM journal. &nbsp;🎉
 - *2025.05*: I have just completed my doctoral thesis defense. &nbsp;🎉🎉
 
@@ -74,6 +74,7 @@ I am currently pursuing a Ph.D. at Hangzhou Dianzi University, advised by Prof. 
 </div>
 
 # 🎖 Honors and Awards
+- *2025.08*: Best Poster Award at the union conference of CCF CAD\&CG and CSIAM GDC
 - *2025.01*: Second Prize of the Graduate Innovation Scholarship of the "Qiu Junping and Yan Jinlian Graduate Education Award Fund"
 - *2024.07*: First Prize in the 2024 Excellent Paper Selection of Zhejiang Applied Mathematics Research Association
 - *2024.07*: Hangzhou Dianzi University 2024 Excellent Doctoral Dissertation Cultivation Project Approved 
