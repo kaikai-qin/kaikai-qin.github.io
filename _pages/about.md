@@ -34,7 +34,7 @@ I am currently pursuing a Ph.D. at Hangzhou Dianzi University, advised by Prof. 
 
 [ C^0 Generalized Coons Patches for High-order Cage-based Deformation](https://dl.acm.org/doi/10.1145/3687972)   
 [**Quickly Preview**](https://github.com/kaikai-qin/kaikai-qin.github.io/blob/main/images/low-res-c0-deformation.pdf) & [**Full Paper**](https://drive.google.com/file/d/1kQjEEVuF3e0rQNQUkLlrPrc3kHB1Iw79/view?usp=sharing)  
-**Kaikai Qin**, Yunhao Zhou, Chenhao Ying, Yajuan Li, and Chongyang Deng
+**Kaikai Qin**, Yunhao Zhou, Chenhao Ying, Yajuan Li, and Chongyang Deng*
 - A generalization of the Coons patch via generalized barycentric coordinates.
 </div>
 </div>
@@ -45,7 +45,7 @@ I am currently pursuing a Ph.D. at Hangzhou Dianzi University, advised by Prof. 
 
 [ Generalized Bézier volumes over simple convex polyhedra](https://www.sciencedirect.com/science/article/abs/pii/S0167839624000724)   
 [**Paper**](https://drive.google.com/file/d/1qoTFNEmYx00sYX4zX_XnSzHwu0hrc_DS/view?usp=sharing)   
- **Kaikai Qin**, Yajuan Li, and Chongyang Deng
+ **Kaikai Qin**, Yajuan Li, and Chongyang Deng*
 - A 3D extension of the [Generalized Bézier \(GB\) patch](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.12833).
 </div>
 </div>
@@ -56,7 +56,7 @@ I am currently pursuing a Ph.D. at Hangzhou Dianzi University, advised by Prof. 
 
 [ Blending Bézier patch for multisided surface modeling](https://www.sciencedirect.com/science/article/abs/pii/S0167839623000547)   
 [**Paper**](https://drive.google.com/file/d/1N-qSnuNM9SrdilbdnyJYRuFSTxTncNoe/view?usp=sharing)   
- **Kaikai Qin**, Yajuan Li, and Chongyang Deng
+ **Kaikai Qin**, Yajuan Li, and Chongyang Deng*
 - A multi-sided Bézier patch by Gregory corner blending.
 </div>
 </div>
