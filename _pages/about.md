@@ -35,7 +35,7 @@ I am currently pursuing a Ph.D. at Hangzhou Dianzi University, advised by Prof. 
 [ C^0 Generalized Coons Patches for High-order Cage-based Deformation](https://dl.acm.org/doi/10.1145/3687972)   
 [**Quickly Preview**](https://github.com/kaikai-qin/kaikai-qin.github.io/blob/main/images/low-res-c0-deformation.pdf) & [**Full Paper**](https://drive.google.com/file/d/1kQjEEVuF3e0rQNQUkLlrPrc3kHB1Iw79/view?usp=sharing)  
 **Kaikai Qin**, Yunhao Zhou, Chenhao Ying, Yajuan Li, and Chongyang Deng
-- It generalizes rectangular and triangular Coons patches, works in any dimension, supports arbitrary polytopes, even non-manifold topologies, and has an elegant mathematical form. We applied this method to high-order cage-based deformation, which offers more degrees of freedom and achieves smoother results compared to traditional linear cage-based deformation.
+- A generalization of the Coons patch via generalized barycentric coordinates.
 </div>
 </div>
 
