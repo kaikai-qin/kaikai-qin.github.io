@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Kaikai Qin"
-description              : "Ph.D. student at Hangzhou Dianzi University; Research Interst: Computer Aided Geometric Design. "
+description              : "Ph.D.; Postdoctoral researcher at Hangzhou Dianzi University; Research Interst: Computer Aided Geometric Design. "
 repository               : "https://kaikai-qin.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Kaikai Qin"
+  name             : "Kaikai Qin (秦凯凯)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Hangzhou Dianzi University"
   location         : "Hangzhou, China"
