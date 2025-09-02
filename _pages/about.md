@@ -80,10 +80,10 @@ I have been a postdoctoral researcher at Hangzhou Dianzi University since Septem
 - *2024.07*: Hangzhou Dianzi University 2024 Excellent Doctoral Dissertation Cultivation Project Approved 
 
 # 📖 Educations and Experiences
-- 2025.09 - Now, Postdoctoral researcher, Hangzhou Dianzi University, Hangzhou, China.
-- 2022.09 - 2025.06, Ph.D, Applied Mathematics, Hangzhou Dianzi University, Hangzhou, China.
-- 2020.09 - 2022.06*, M.S., Applied Mathematics, Hangzhou Dianzi University, Hangzhou, China. 
-- 2016.09 - 2020.06*, B.S., Information and Computing Science, Southwest University of Science and Technology, Mianyang, China.  
+- *2025.09 - Now*, Postdoctoral researcher, Hangzhou Dianzi University, Hangzhou, China.
+- *2022.09 - 2025.06*, Ph.D, Applied Mathematics, Hangzhou Dianzi University, Hangzhou, China.
+- *2020.09 - 2022.06*, M.S., Applied Mathematics, Hangzhou Dianzi University, Hangzhou, China. 
+- *2016.09 - 2020.06*, B.S., Information and Computing Science, Southwest University of Science and Technology, Mianyang, China.  
 
 # 💬 Invited Talks
 - *2025.08*, I attended CAD/Graphics 2025 in Yantai, China, and gave a talk titled "2D High-order Cage-based Deformation by Polygonal Surface Patches".
