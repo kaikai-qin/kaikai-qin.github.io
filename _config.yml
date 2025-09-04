@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Kaikai Qin (秦 凯凯)"
+title                    : "Kaikai Qin"
 description              : "Ph.D.; Postdoctoral researcher at Hangzhou Dianzi University; Research Interst: Computer Aided Geometric Design. "
 repository               : "https://kaikai-qin.github.io"
 google_scholar_stats_use_cdn : true
