@@ -29,6 +29,16 @@ I have been a postdoctoral researcher at Hangzhou Dianzi University since Septem
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAD/Graphics 2025 (CSIAM-AM)</div><img src='images/2D high-order cbd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+2D High-order Cage-based Deformation by Polygonal Surface Patches 
+Zeqi Ge, **Kaikai Qin\***, Chongyang Deng, and Liyong Shen
+- A unified framework of 2D high-order cage-based deformation by using polygonal surface patches.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2024 (TOG)</div><img src='images/c0deformation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
