@@ -78,7 +78,7 @@ Zeqi Ge, **Kaikai Qin\***, Chongyang Deng, and Liyong Shen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAGD</div><img src='images/salvi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ Genuine multi-sided parametric surface patches – A survey](https://www.sciencedirect.com/science/article/pii/S0167839624000207)
+[ Genuine multi-sided parametric surface patches – A survey](https://www.sciencedirect.com/science/article/pii/S0167839624000207)        
  Tamás Várady, Péter Salvi, Márton Vaitkus
 - A very comprehensive survey on polygonal surfaces. If you are interested in polygonal surfaces, this would be a great starting point.
 </div>
