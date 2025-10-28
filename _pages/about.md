@@ -23,9 +23,10 @@ I have been a postdoctoral researcher at Hangzhou Dianzi University since Septem
 
 # 🔥 News
 
+- *2025.10*: Dr. [Péter Salvi](https://www.iit.bme.hu/users/dr-salvi-p%C3%A9ter?language=en) now is visiting our university. Welcome, Dr. [Péter Salvi](https://www.iit.bme.hu/users/dr-salvi-p%C3%A9ter?language=en)! &nbsp;🎉
 - *2025.08*: My poster based on the previous work "C^0 Generalized Coons Patches for High-order Cage-based Deformation" has won the Best Poster Award of the union conference of CCF CAD&CG and CSIAM GDC. &nbsp;🎉
 - *2025.06*: One paper is conditionally accepted by CAD/Graphics 2025 and will be published in CSIAM-AM journal. &nbsp;🎉
-- *2025.05*: I have just completed my doctoral thesis defense. &nbsp;🎉🎉
+
 
 # 📝 Publications 
 
