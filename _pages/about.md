@@ -19,7 +19,7 @@ redirect_from:
 
 # Profile
 
-I have been a postdoctoral researcher at Hangzhou Dianzi University since September 2025, supervised by Prof. Chongyang Deng. Recently, I obtained my Ph.D. degree from Hangzhou Dianzi University, advised by Prof. Chongyang Deng. Before that, I received my B.S. degree from Southwest University of Science and Technology in 2020. My research interests focus on computer aided geometric design (CAGD), particularly the construction and applications of polygonal domain surfaces and polyhedral domain volumes.
+I have been a postdoctoral researcher at Hangzhou Dianzi University since September 2025, supervised by Prof. Chongyang Deng. I obtained my Ph.D. degree from Hangzhou Dianzi University, advised by Prof. Chongyang Deng. Before that, I received my B.S. degree from Southwest University of Science and Technology in 2020. My research interests focus on computer aided geometric design (CAGD), particularly the construction and applications of polygonal domain surfaces and polyhedral domain volumes.
 
 # 🔥 News
 
@@ -92,7 +92,7 @@ Zeqi Ge, **Kaikai Qin\***, Chongyang Deng, and Li-yong Shen
 
 # 📖 Educations and Experiences
 - *2025.09 - Now*, Postdoctoral researcher, Hangzhou Dianzi University, Hangzhou, China.
-- *2022.09 - 2025.06*, Ph.D, Applied Mathematics, Hangzhou Dianzi University, Hangzhou, China.
+- *2022.09 - 2025.06*, Ph.D., Applied Mathematics, Hangzhou Dianzi University, Hangzhou, China.
 - *2020.09 - 2022.06*, M.S., Applied Mathematics, Hangzhou Dianzi University, Hangzhou, China. 
 - *2016.09 - 2020.06*, B.S., Information and Computing Science, Southwest University of Science and Technology, Mianyang, China.  
 
