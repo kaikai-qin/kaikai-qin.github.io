@@ -23,9 +23,9 @@ I have been a postdoctoral researcher at Hangzhou Dianzi University since Septem
 
 # 🔥 News
 
-- *2025.11*: Dr. [Claudio Mancinelli](https://cmancinelli.com/) was visiting our university. &nbsp;🎉
-- *2025.10*: Dr. [Péter Salvi](https://www.iit.bme.hu/users/dr-salvi-p%C3%A9ter?language=en) was visiting our university. 🎉
-- *2025.08*: My poster based on the previous work "C^0 Generalized Coons Patches for High-order Cage-based Deformation" has won the Best Poster Award of the union conference of CCF CAD&CG and CSIAM GDC. &nbsp;🎉
+- *2026.04*: Two papers have been conditionally accepted to SIGGRAPH 2026! &nbsp;🎉
+- *2025.11*: Dr. [Claudio Mancinelli](https://cmancinelli.com/) visited our university. &nbsp;🎉
+- *2025.10*: Dr. [Péter Salvi](https://www.iit.bme.hu/users/dr-salvi-p%C3%A9ter?language=en) visited our university. &nbsp 🎉
 
 
 # 📝 Publications 
