@@ -43,7 +43,7 @@ I have been a postdoctoral researcher at Hangzhou Dianzi University since Septem
 <div class='paper-box-text' markdown="1">
 
 [PR-Cage: Progressive Feasibility Relaxation for Tight Bounding Cage Generation](https://kaikai-qin.github.io/)         
-Huibiao Wen, **Kaikai Qin**, Xinxin Su, Jingcheng Mei, Shuangmin Chen, Chongyang Deng, Changhe Tu, Shiqing Xin\*
+Huibiao Wen, **Kaikai Qin**, Xinxin Su, Jingcheng Mei, Shuangmin Chen, Chongyang Deng, Changhe Tu, Shiqing Xin\*, Wenping Wang
 - PR-Cage is an automated framework for generating high-quality cages—simplified mesh proxies that tightly enclose complex geometry. Using a staircase relaxation of a thickness parameter and constrained QEM optimization, it achieves extreme simplification while preserving shape fidelity, enabling efficient contact simulation, deformation, and other graphics applications.
 </div>
 </div>
