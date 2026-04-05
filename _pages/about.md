@@ -30,6 +30,24 @@ I have been a postdoctoral researcher at Hangzhou Dianzi University since Septem
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2026</div><img src='images/papers_464s3.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[C^0 Generalized Coons Volumes over Arbitrary Polyhedra](https://kaikai-qin.github.io/)         
+**Kaikai Qin**, Zeqi Ge, Péter Salvi, Chenhao Ying, Huibiao Wen, Kepeng Xu, Shiqing Xin, Chongyang Deng\*
+- In this paper, we generalize the Coons volume from hexahedral topology to arbitrary polyhedral topologies via generalized barycentric coordinates. We prove that the proposed generalized Coons volume possesses several desirable geometric properties and demonstrate its applications in computer graphics.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2026 (TOG)</div><img src='images/papers_255s3.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PR-Cage: Progressive Feasibility Relaxation for Tight Bounding Cage Generation](https://kaikai-qin.github.io/)         
+Huibiao Wen, **Kaikai Qin**, Xinxin Su, Jingcheng Mei, Shuangmin Chen, Chongyang Deng, Changhe Tu, Shiqing Xin\*
+- PR-Cage is an automated framework for generating high-quality cages—simplified mesh proxies that tightly enclose complex geometry. Using a staircase relaxation of a thickness parameter and constrained QEM optimization, it achieves extreme simplification while preserving shape fidelity, enabling efficient contact simulation, deformation, and other graphics applications.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAD/Graphics 2025 (CSIAM-AM)</div><img src='images/2D high-order cbd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
