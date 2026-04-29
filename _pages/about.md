@@ -34,7 +34,7 @@ I have been a postdoctoral researcher at Hangzhou Dianzi University since Septem
 <div class='paper-box-text' markdown="1">
 
 [C^0 Generalized Coons Volumes over Arbitrary Polyhedra](https://kaikai-qin.github.io/)         
-**Kaikai Qin**#, Zeqi Ge#, Péter Salvi, Chenhao Ying, Huibiao Wen, Kepeng Xu, Shiqing Xin, Chongyang Deng\*
+**Kaikai Qin**#, Zeqi Ge#, Péter Salvi, Chenhao Ying, Huibiao Wen, Kepeng Xu, Shiqing Xin, Chongyang Deng\*                                             
 [**Paper**](https://github.com/kaikai-qin/kaikai-qin.github.io/blob/main/images/2026-SIGGRAPH-C^0 Generalized Coons Volumes over Arbitrary Polyhedra.pdf)
 - In this paper, we generalize the Coons volume from hexahedral topology to arbitrary polyhedral topologies via generalized barycentric coordinates. We prove that the proposed generalized Coons volume possesses several desirable geometric properties and demonstrate its applications in computer graphics.
 - Thanks also to Dr. Dong Xiao, Shibo Liu and Qi Zhang from University of Science and Technology of China, for their generous sharing of models and high-order cages!
@@ -54,7 +54,7 @@ Huibiao Wen, **Kaikai Qin**, Xinxin Su, Jingcheng Mei, Shuangmin Chen, Chongyang
 <div class='paper-box-text' markdown="1">
 
 [2D High-order Cage-based Deformation by Polygonal Surface Patches]( https://doi.org/10.4208/csiam-am.SO-2025-0069)         
-Zeqi Ge, **Kaikai Qin\***, Chongyang Deng, and Li-yong Shen
+Zeqi Ge, **Kaikai Qin\***, Chongyang Deng, and Li-yong Shen                                                                                                         
 [**Paper**](https://github.com/kaikai-qin/kaikai-qin.github.io/blob/main/images/2026-CSIAM AM-2D High-order Cage-based Deformation by Polygonal Surface Patches.pdf)
 - A unified framework of 2D high-order cage-based deformation by using polygonal surface patches.
 </div>
