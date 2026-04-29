@@ -54,7 +54,7 @@ I have been a postdoctoral researcher at Hangzhou Dianzi University since Septem
 <div class='paper-box-text' markdown="1">
 
 [2D High-order Cage-based Deformation by Polygonal Surface Patches]( https://doi.org/10.4208/csiam-am.SO-2025-0069)         
-Zeqi Ge, **Kaikai Qin\***, Chongyang Deng, and Li-yong Shen                                                                                                         
+Zeqi Ge, **Kaikai Qin\***, Chongyang Deng, and [Li-yong Shen](https://people.ucas.ac.cn/~shenly)                                                                                                         
 [**Paper**](https://github.com/kaikai-qin/kaikai-qin.github.io/blob/main/images/2026-CSIAM AM-2D High-order Cage-based Deformation by Polygonal Surface Patches.pdf)
 - A unified framework of 2D high-order cage-based deformation by using polygonal surface patches.
 </div>
