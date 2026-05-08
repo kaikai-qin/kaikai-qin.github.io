@@ -65,7 +65,7 @@ I have been a postdoctoral researcher at Hangzhou Dianzi University since Septem
 <div class='paper-box-text' markdown="1">
 
 [ C^0 Generalized Coons Patches for High-order Cage-based Deformation](https://dl.acm.org/doi/10.1145/3687972)   
-[**Quickly Preview**](https://github.com/kaikai-qin/kaikai-qin.github.io/blob/main/images/low-res-c0-deformation.pdf) & [**Full Paper**](https://github.com/kaikai-qin/kaikai-qin.github.io/blob/main/images/2024-TOG-C0 Generalized Coons Patches for High-order Cage-based Deformation.pdf)  
+[**Paper**](https://github.com/kaikai-qin/kaikai-qin.github.io/blob/main/images/2024-TOG-C0 Generalized Coons Patches for High-order Cage-based Deformation.pdf)  
 **Kaikai Qin**, Yunhao Zhou, Chenhao Ying, Yajuan Li, and Chongyang Deng*
 - A generalization of the Coons patch via generalized barycentric coordinates.
 </div>
