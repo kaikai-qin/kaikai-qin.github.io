@@ -101,7 +101,7 @@ I have been a postdoctoral researcher at Hangzhou Dianzi University since Septem
 
 [ Genuine multi-sided parametric surface patches – A survey](https://www.sciencedirect.com/science/article/pii/S0167839624000207)        
  Tamás Várady, Péter Salvi, Márton Vaitkus
-- A very comprehensive survey on polygonal surfaces. If you are interested in polygonal surfaces, this would be a great starting point.
+- A very comprehensive survey on multi-sided surfaces. If you are interested in multi-sided surfaces, this would be a great starting point.
 </div>
 </div>
 
