@@ -23,6 +23,7 @@ I have been a postdoctoral researcher at Hangzhou Dianzi University since Septem
 
 # 🔥 News
 
+- *2026.05*: My PhD dissertation received the Excellent Doctoral Dissertation Award of Hangzhou Dianzi University! &nbsp;🎉
 - *2026.04*: Two papers \(1 conference and 1 journal\) are conditionally accepted to SIGGRAPH 2026! &nbsp;🎉
 - *2025.11*: Dr. [Claudio Mancinelli](https://cmancinelli.com/) visited our university. &nbsp;🎉
 - *2025.10*: Dr. [Péter Salvi](https://www.iit.bme.hu/users/dr-salvi-p%C3%A9ter?language=en) visited our university. &nbsp;🎉
@@ -106,6 +107,7 @@ I have been a postdoctoral researcher at Hangzhou Dianzi University since Septem
 </div>
 
 # 🎖 Honors and Awards
+- *2026.05*: Excellent Doctoral Dissertation Award of Hangzhou Dianzi University
 - *2025.08*: Best Poster Award of the union conference of CCF CAD&CG and CSIAM GDC
 - *2025.01*: Second Prize of the Graduate Innovation Scholarship of the "Qiu Junping and Yan Jinlian Graduate Education Award Fund"
 - *2024.07*: First Prize in the 2024 Excellent Paper Selection of Zhejiang Applied Mathematics Research Association
