@@ -46,7 +46,7 @@ Although I majored in mathematics, I'm not particularly good at it. X_X So I pre
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2026 (TOG)</div><img src='images/papers_255s3.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PR-Cage: Progressive Feasibility Relaxation for Tight Bounding Cage Generation](https://kaikai-qin.github.io/)         
+[PR-Cage: Progressive Feasibility Relaxation for Tight Bounding Cage Generation](https://dl.acm.org/doi/10.1145/3811300)         
 [Huibiao Wen](https://huibiaowen.github.io/), **Kaikai Qin**, Xinxin Su, Jingcheng Mei, Shuangmin Chen, Chongyang Deng, [Changhe Tu](https://irc.cs.sdu.edu.cn/~chtu/index.html), [Shiqing Xin](https://irc.cs.sdu.edu.cn/~shiqing/index.html)\*, [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html)
 - PR-Cage is an automated framework for generating high-quality cages—simplified mesh proxies that tightly enclose complex geometry. Using a staircase relaxation of a thickness parameter and constrained QEM optimization, it achieves extreme simplification while preserving shape fidelity, enabling efficient contact simulation, deformation, and other graphics applications.
 </div>
