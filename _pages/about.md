@@ -25,9 +25,9 @@ Although I majored in mathematics, I'm not particularly good at it. X_X So I pre
 
 # 🔥 News
 
+- *2026.07*: My poster on C^0 generalized Coons volumes won the Best Poster Award at CSIAM GDC 2026. &nbsp;🎉
 - *2026.05*: My PhD dissertation received the Excellent Doctoral Dissertation Award of Hangzhou Dianzi University! &nbsp;🎉
 - *2026.04*: Two papers \(1 conference and 1 journal\) are conditionally accepted to SIGGRAPH 2026! &nbsp;🎉
-- *2025.11*: Dr. [Claudio Mancinelli](https://cmancinelli.com/) visited our university. &nbsp;🎉
 
 
 # 📝 Publications 
@@ -108,8 +108,9 @@ Although I majored in mathematics, I'm not particularly good at it. X_X So I pre
 </div>
 
 # 🎖 Honors and Awards
+- *2026.07*: Best Poster Award of CSIAM GDC 2026
 - *2026.05*: Excellent Doctoral Dissertation Award of Hangzhou Dianzi University
-- *2025.08*: Best Poster Award of the union conference of CCF CAD&CG and CSIAM GDC
+- *2025.08*: Best Poster Award of the union conference of CCF CAD&CG and CSIAM GDC 2025
 - *2025.01*: Second Prize of the Graduate Innovation Scholarship of the "Qiu Junping and Yan Jinlian Graduate Education Award Fund"
 - *2024.07*: First Prize in the 2024 Excellent Paper Selection of Zhejiang Applied Mathematics Research Association
 - *2024.07*: Hangzhou Dianzi University 2024 Excellent Doctoral Dissertation Cultivation Project Approved 
