@@ -19,7 +19,9 @@ redirect_from:
 
 # Profile
 
-I have been a postdoctoral researcher at Hangzhou Dianzi University since September 2025, supervised by Prof. Chongyang Deng. I obtained my Ph.D. degree from Hangzhou Dianzi University, advised by Prof. Chongyang Deng. Before that, I received my B.S. degree from Southwest University of Science and Technology in 2020. My research interests focus on computer aided geometric design (CAGD), particularly the construction and applications of polygonal domain surfaces and polyhedral domain volumes.
+I have been a postdoctoral researcher at Hangzhou Dianzi University since September 2025, supervised by Prof. Chongyang Deng. I obtained my Ph.D. degree from Hangzhou Dianzi University, advised by Prof. Chongyang Deng. Before that, I received my B.S. degree from Southwest University of Science and Technology in 2020. 
+
+My research interests focus on computer aided geometric design (CAGD), particularly the construction and applications of polygonal domain surfaces and polyhedral domain volumes.
 
 Although I majored in mathematics, I'm not particularly good at it. X_X So I prefer using simple math in my research...
 
