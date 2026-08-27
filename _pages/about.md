@@ -34,6 +34,16 @@ Although I majored in mathematics, I'm not particularly good at it. X_X So I pre
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PG 2026 (CGF)</div><img src='images/IVGCP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Image Vectorization with Generalized Coons Patches](https://kaikai-qin.github.io/)         
+Yan Jing, [Kai Hormann](https://www.inf.usi.ch/hormann/), **Kaikai Qin**, Chongyang Deng\*                                             
+[**Paper**](https://kaikai-qin.github.io/)
+- In this paper, we presented an image vectorization method based on C0 generalized Coons patches.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2026</div><img src='images/papers_464s3.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
