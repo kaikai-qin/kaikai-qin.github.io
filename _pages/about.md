@@ -119,7 +119,8 @@ Yan Jing, [Kai Hormann](https://www.inf.usi.ch/hormann/), **Kaikai Qin**, Chongy
 </div>
 </div>
 
-# 🎖 Honors and Awards
+# 🎖 Honors and Awards and Grants
+- *2026.08*: NSFC Young Scientists Fund (Category C), CNY 300,000, *2027.01-2029.12*
 - *2026.07*: Best Poster Award of CSIAM GDC 2026
 - *2026.05*: Excellent Doctoral Dissertation Award of Hangzhou Dianzi University
 - *2025.08*: Best Poster Award of the union conference of CCF CAD&CG and CSIAM GDC 2025
