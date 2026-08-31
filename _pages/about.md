@@ -39,7 +39,7 @@ Although I majored in mathematics, I'm not particularly good at it. X_X So I pre
 
 [Image Vectorization with Generalized Coons Patches](https://kaikai-qin.github.io/)         
 Yan Jing, [Kai Hormann](https://www.inf.usi.ch/hormann/), **Kaikai Qin**, Chongyang Deng\*                                             
-[**Paper**](https://kaikai-qin.github.io/)
+[**Paper**](https://github.com/kaikai-qin/kaikai-qin.github.io/blob/main/images/2026-CGF-Image%20Vectorization%20with%20Generalized%20Coons%20Patches.pdf)
 - In this paper, we presented an image vectorization method based on C0 generalized Coons patches.
 </div>
 </div>
