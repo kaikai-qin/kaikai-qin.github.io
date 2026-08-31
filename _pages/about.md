@@ -87,7 +87,7 @@ Yan Jing, [Kai Hormann](https://www.inf.usi.ch/hormann/), **Kaikai Qin**, Chongy
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAGD</div><img src='images/gbv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAGD 2024</div><img src='images/gbv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ Generalized Bézier volumes over simple convex polyhedra](https://www.sciencedirect.com/science/article/abs/pii/S0167839624000724)   
@@ -98,7 +98,7 @@ Yan Jing, [Kai Hormann](https://www.inf.usi.ch/hormann/), **Kaikai Qin**, Chongy
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAGD</div><img src='images/bbp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAGD 2023</div><img src='images/bbp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ Blending Bézier patch for multisided surface modeling](https://www.sciencedirect.com/science/article/abs/pii/S0167839623000547)   
