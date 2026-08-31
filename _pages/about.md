@@ -60,6 +60,7 @@ Yan Jing, [Kai Hormann](https://www.inf.usi.ch/hormann/), **Kaikai Qin**, Chongy
 
 [PR-Cage: Progressive Feasibility Relaxation for Tight Bounding Cage Generation](https://dl.acm.org/doi/10.1145/3811300)         
 [Huibiao Wen](https://huibiaowen.github.io/), **Kaikai Qin**, Xinxin Su, Jingcheng Mei, Shuangmin Chen, Chongyang Deng, [Changhe Tu](https://irc.cs.sdu.edu.cn/~chtu/index.html), [Shiqing Xin](https://irc.cs.sdu.edu.cn/~shiqing/index.html)\*, [Wenping Wang](https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html)
+[**Paper**](https://github.com/kaikai-qin/kaikai-qin.github.io/blob/main/images/2026-TOG-PR-Cage%3D%20Progressive%20Feasibility%20Relaxation%20for%20Tight%20Bounding%20Cage%20Generation.pdf)
 - PR-Cage is an automated framework for generating high-quality cages—simplified mesh proxies that tightly enclose complex geometry. Using a staircase relaxation of a thickness parameter and constrained QEM optimization, it achieves extreme simplification while preserving shape fidelity, enabling efficient contact simulation, deformation, and other graphics applications.
 </div>
 </div>
