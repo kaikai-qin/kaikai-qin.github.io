@@ -27,7 +27,7 @@ Although I majored in mathematics, I'm not particularly good at it. X_X So I pre
 
 # 🔥 News
 
-- *2026.09*: Welcome Dr. Claudio Mancinelli to join our the School of Mathematical Sciences! &nbsp;🎉
+- *2026.09*: Welcome Dr. Claudio Mancinelli to join the School of Mathematical Sciences! &nbsp;🎉
 - *2026.08*: I have been awarded a grant under the NSFC Young Scientists Fund (Category C)! &nbsp;🎉
 - *2026.08*: 1 paper (journal track) is conditionally accepted to PG 2026! &nbsp;🎉
 
