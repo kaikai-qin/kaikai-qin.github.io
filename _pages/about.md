@@ -29,7 +29,7 @@ Although I majored in mathematics, I'm not particularly good at it. X_X So I pre
 
 # 🔥 News
 
-- *2026.10*: Dr. [Péter Salvi](https://www.iit.bme.hu/users/dr-salvi-p%C3%A9ter?language=en) will visit our university again! Welcome, Peter :\)! &nbsp;🎉
+- *2026.10*: Dr. [Péter Salvi](https://www.iit.bme.hu/users/dr-salvi-p%C3%A9ter?language=en) will visit our university again! Welcome, Peter! :\) &nbsp;🎉
 - *2026.09*: Welcome Dr. Claudio Mancinelli to join the School of Mathematical Sciences! &nbsp;🎉
 - *2026.08*: I have been awarded a grant under the NSFC Young Scientists Fund (Category C)! &nbsp;🎉
 
