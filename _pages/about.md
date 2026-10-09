@@ -23,6 +23,8 @@ I have been a postdoctoral researcher at Hangzhou Dianzi University since Septem
 
 My research interests focus on computer aided geometric design (CAGD), particularly the construction and applications of polygonal domain surfaces and polyhedral domain volumes.
 
+I also serve as a reviewer for several international journals and conferences, including CAGD, GMP, PG, and EG.
+
 Although I majored in mathematics, I'm not particularly good at it. X_X So I prefer using simple math in my research...
 
 # 🔥 News
